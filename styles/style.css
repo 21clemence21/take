@@ -18,7 +18,7 @@ body {
 }
 
 .section1 {
-  height: 80vh;
+  height: 95vh;
   width: 100vw;
   background-image: url("../Take-assets/mastehead.jpg");
   background-size: cover;
@@ -50,6 +50,7 @@ body {
 }
 
 .section1 .title {
+  width: 45vw;
   color: white;
   padding-left: 15vw;
   width: 45vw;
@@ -57,7 +58,7 @@ body {
 }
 
 .section1 .title h1 {
-  font-size: 2rem;
+  font-size: 3rem;
   padding-bottom: 2rem;
 }
 
@@ -65,7 +66,7 @@ body {
   height: 80vh;
   width: auto;
   position: absolute;
-  top: 26vh;
+  top: 38vh;
   left: 53vw;
 }
 
