@@ -232,7 +232,7 @@ body {
 }
 
 .section5 {
-  height: 90vh;
+  height: 100vh;
   width: 100vw;
   background-image: url("../Take-assets/full-image.jpg");
   background-size: cover;
@@ -265,18 +265,24 @@ body {
 
 .section5 .title-section5 {
   color: white;
-  padding-left: 15vw;
-  padding-top: 15vh;
+  padding-left: 18vw;
+  padding-top: 32vh;
   width: 50vw;
 }
 
 .section5 .title-section5 h1 {
-  font-size: 3.2rem;
+  font-size: 2.7rem;
+  margin-bottom: 4vh;
 }
 
 .section5 .title-section5 p {
   line-height: 1.2rem;
-  text-align: justify;
+  text-align: left;
+}
+
+.section5 .title-section5 .options {
+  font-weight: bold;
+  cursor: pointer;
 }
 
 .section6 {

@@ -184,7 +184,7 @@ body {
 }
 
 .section5 {
-    height: 90vh;
+    height: 100vh;
     width: 100vw;
     background-image: url("../Take-assets/full-image.jpg");
     background-size: cover;
@@ -208,19 +208,24 @@ body {
     .title-section5 {
      
         color: white;  
-        padding-left: 15vw;
-        padding-top: 15vh;
+        padding-left: 18vw;
+        padding-top: 32vh;
         width: 50vw;
         
         h1 {
-            font-size: 3.2rem;
+            font-size: 2.7rem;
+            margin-bottom: 4vh;
         }
 
         p {
             line-height: 1.2rem;
-            text-align : justify;
+            text-align : left;
         }
-        
+
+        .options {
+            font-weight: bold;
+            cursor: pointer;
+        }
     }
 }
 
